@@ -1,0 +1,28 @@
+[W 2022-09-21 17:19:32.291 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-21 17:19:32.291 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2022-09-21 17:19:32.302 LabApp] JupyterLab extension loaded from /home/souvikp/anaconda3/lib/python3.9/site-packages/jupyterlab
+[I 2022-09-21 17:19:32.302 LabApp] JupyterLab application directory is /home/souvikp/anaconda3/share/jupyter/lab
+[I 17:19:32.308 NotebookApp] Serving notebooks from local directory: /home/souvikp/sponge_poisoning_energy_latency_attack
+[I 17:19:32.309 NotebookApp] Jupyter Notebook 6.4.8 is running at:
+[I 17:19:32.309 NotebookApp] http://localhost:8889/?token=1b3dea93636f0f1a40aa3478e93481c8a39da274931f06fb
+[I 17:19:32.309 NotebookApp]  or http://127.0.0.1:8889/?token=1b3dea93636f0f1a40aa3478e93481c8a39da274931f06fb
+[I 17:19:32.309 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 17:19:32.317 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/souvikp/.local/share/jupyter/runtime/nbserver-1431998-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=1b3dea93636f0f1a40aa3478e93481c8a39da274931f06fb
+     or http://127.0.0.1:8889/?token=1b3dea93636f0f1a40aa3478e93481c8a39da274931f06fb
+[I 17:24:03.171 NotebookApp] 302 GET /?token=1b3dea93636f0f1a40aa3478e93481c8a39da274931f06fb (::1) 1.820000ms
+[I 17:24:21.687 NotebookApp] Writing notebook-signing key to /home/souvikp/.local/share/jupyter/notebook_secret
+[W 17:24:21.689 NotebookApp] Notebook plotting.ipynb is not trusted
+[I 17:24:22.212 NotebookApp] Kernel started: afe2dbba-6118-402e-bb8d-6114aaf3caab, name: python3
+[I 17:26:22.719 NotebookApp] Saving file at /plotting.ipynb
+[W 17:26:22.720 NotebookApp] Notebook plotting.ipynb is not trusted
+[I 17:27:09.692 NotebookApp] 302 GET / (127.0.0.1) 1.020000ms
+[W 17:27:09.734 NotebookApp] Clearing invalid/expired login cookie username-localhost-8890
+[W 17:27:09.734 NotebookApp] Clearing invalid/expired login cookie username-localhost-8890
+[I 17:27:09.735 NotebookApp] 302 GET /tree? (127.0.0.1) 2.410000ms
+[I 17:27:20.309 NotebookApp] 302 POST /login?next=%2Ftree%3F (127.0.0.1) 2.270000ms
+[I 17:29:50.963 NotebookApp] Starting buffering for afe2dbba-6118-402e-bb8d-6114aaf3caab:5847b05aa5034c12876ac8babcc27bff

@@ -236,8 +236,8 @@ def record_results(kettle, exp_name, results, args, extra_stats=dict()):
                                                                                  'poison_class'] is not None else 'All',
 
                   epochs_train=args.max_epoch,
-                  epochs_retrain=args.retrain_max_epoch,
-                  epochs_val=args.val_max_epoch,
+#                  epochs_retrain=args.retrain_max_epoch,
+#                  epochs_val=args.val_max_epoch,
                   sources_train=args.sources,
                   sources_test=args.sources,
 
